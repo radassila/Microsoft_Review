@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+venv/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Python virtual environment folder
+env/
+venv/
+
+# Ignore installed packages (pip cache)
+pip-log.txt
+pip-delete-this-directory.txt
+
+# MacOS specific files
+.DS_Store
+
+# Ignore data files if you want (optional)
+# data/
+# *.csv
